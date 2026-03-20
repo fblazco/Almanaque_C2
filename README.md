@@ -17,11 +17,6 @@ Almanaque/
 ```
 
 
-## Reglas
-
-1. **Nada de V Words** 🇻🇪 ❌ 🤮.
-2. **Nada de metaleros** 🚫 🎸.
-3. **Pasalo bien** 😊.
 
 ## Tecnologías utilizadas
 
