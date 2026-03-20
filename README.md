@@ -22,7 +22,6 @@ Almanaque/
 
 - Python
 - pdfs robados de labmat 🥷
-- Por el pico el nuevo coordinador wn tea, hasta el honors de 2020 era mas facil que el examen yuta qla 🦀.
 - markdown 🥰
 
 ### Contacto
